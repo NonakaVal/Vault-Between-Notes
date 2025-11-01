@@ -684,14 +684,6 @@
       "key": "P"
     }
   ],
-  "tasknotes:open-pomodoro-view": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "P"
-    }
-  ],
   "gridexplorer:open-grid-view": [
     {
       "modifiers": [
@@ -716,6 +708,14 @@
         "Shift"
       ],
       "key": "W"
+    }
+  ],
+  "tasknotes:open-pomodoro-view": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Y"
     }
   ]
 }

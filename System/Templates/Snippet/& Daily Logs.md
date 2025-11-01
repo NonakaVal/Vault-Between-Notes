@@ -2,7 +2,7 @@
 //-----------------------------------------------------
 // ⚙️ CONFIGURAÇÕES — altere APENAS esta seção
 //-----------------------------------------------------
-const rangeDays = <% tp.system.prompt("RangeDays Count")%>; // Alterar o número de dias
+const rangeDays = <% tp.system.prompt("Daily Logs Dayrange config")%>; // Alterar o número de dias
 const CONFIG = {
     tag: "#calendar/daily",      // Tag usada para filtrar notas
     sectionHeader: "Logs",       // Cabeçalho da seção alvo
@@ -307,3 +307,4 @@ sortSelect.addEventListener("change", (e) => {
 });
 
 ~~~
+

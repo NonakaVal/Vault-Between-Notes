@@ -1,7 +1,7 @@
 ---
-created: ["{{date}} {{time}}"]
+created: '[[<% tp.date.now("YYYY-MM-DD") %>]]'
 tags:
-- Avaliacao/
+  - Journal
 ---
 # ❓ Sua Pergunta é
 - Breve descrição da questão.

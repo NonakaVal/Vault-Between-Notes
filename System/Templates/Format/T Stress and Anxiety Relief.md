@@ -1,3 +1,9 @@
+---
+created: '[[<% tp.date.now("YYYY-MM-DD") %>]]'
+tags:
+  - Journal
+---
+
 # Nível de Estresse 😌
 _Avalie seu nível geral de estresse no dia em uma escala que faça sentido para você (ex.: 1–10)._
 - 

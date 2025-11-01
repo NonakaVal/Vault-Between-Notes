@@ -38,7 +38,7 @@
   "primary_tags_results_visible": true,
   "tags_sidebar": true,
   "tags_sidebar_sorted_by_frequency": true,
-  "onclose_search": "",
+  "onclose_search": "@notes ",
   "saved_searches": [
     {
       "id": 1760429029185,

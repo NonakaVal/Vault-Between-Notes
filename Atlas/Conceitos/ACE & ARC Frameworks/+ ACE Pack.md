@@ -4,6 +4,7 @@ collection: "[[Gestão de Conhecimento]]"
 cssclasses:
   - hide-properties_editing
   - hide-properties_reading
+  - dashboard
 ---
 >[!banner-image] ![[computer-820281.jpg]]
 
@@ -28,23 +29,21 @@ O **framework ACE** (Atlas, Calendar, Efforts) é um sistema universal para orga
 
 #### II. O Sistema ACE (Atlas, Calendar, Efforts)
 
-- 📄 [[How + works|Como + funciona]] (Captura imediata de notas)
-- 📄 [[How folder System Works|Como a pasta Sistema funciona]]
+📄 [[How + works|Como + funciona]] (Captura imediata de notas) -  📄 [[How folder System Works|Como a pasta Sistema funciona]]
 
-**1. Atlas (Conhecimento / Espaço)**
-- 📄 [[How Atlas works|Como Atlas funciona]]
-	- 📄 [[Conceitos]] (Fragmentos de conhecimento)
-	- 📄 [[05 Entendendo Coleções|Coleções]] (Notas de visualização dinâmica)
+- **1. Atlas (Conhecimento / Espaço)**
+	- 📄 [[How Atlas works|Como Atlas funciona]]
+		- 📄 [[Conceitos]]
+		- 📄 [[05 Entendendo Coleções|Coleções]] 
+- **2. Calendar (Tempo)**
+	- 📄 [[How Calendar works|Como Calendário funciona]]
 
-**2. Calendar (Tempo)**
-- 📄 [[How Calendar works|Como Calendário funciona]]
-
-**3. Efforts (Ação / Importância)**
-- 📄 [[How Efforts work|Como Esforços funciona]]
+- **3. Efforts (Ação / Importância)**
 	- 📄 [[Entendendo Areas & Projetos]]
+	- 📄 [[How Efforts work|Como Esforços funciona]]
 	- 📄 [[How the Areas folder works|Entendendo Areas]]
 
 ---
 
 
- Seguir para ➡️ [[+ Gestão de Conhecimento]]
+ Seguir para ➡️ [[+ ARC Framework]]

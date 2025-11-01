@@ -1,11 +1,12 @@
 ---
-created:
-  - "{{date: DD-MM-YYYY}} {{time}}"
-Habilidade:
-Metas Iniciais:
-Nível Atual:
-Recursos:
-Data de Início:
+created: '[[<% tp.date.now("YYYY-MM-DD") %>]]'
+tags:
+  - Journal
+Skill: 
+Initial Goals: 
+Current Level: 
+Resources: 
+Date Started:
 ---
 
 # DATA

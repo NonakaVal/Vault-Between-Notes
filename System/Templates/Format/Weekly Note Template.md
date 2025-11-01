@@ -5,9 +5,7 @@ cssclasses:
 tags:
   - calendar/week
 ---
-  
-# <% tp.date.now("YYYY-MM [Week] WW") %>
+:LiCalendarCheck2: [[<% tp.date.now("YYYY [Week] WW", -7) %>|↶ Previous Week]] | [[<% tp.date.now("YYYY [Week] WW", 7) %>|Following Week ↷]] 
+~<% tp.date.now("YYYY-MM [Week] WW") %>  
 
-[[<% tp.date.now("YYYY [Week] WW", -7) %>|↶ Previous Week]] | [[<% tp.date.now("YYYY [Week] WW", 7) %>|Following Week ↷]]
-
-- ? Use `Alt + E` e os Snippets com `&` para montar sua revisão
+<%tp.file.cursor()%>

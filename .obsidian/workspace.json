@@ -34,21 +34,31 @@
             }
           },
           {
-            "id": "4b28379843308587",
+            "id": "a90e43c5880c4a46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Templates/Snippet/& Summary.md",
-                "mode": "source",
+                "file": "Comece Aqui 🎉.md",
+                "mode": "preview",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "& Summary"
+              "title": "Comece Aqui 🎉"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠.md",
+                "file": "System/Assets/_Atalhos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏠"
+              "title": "Outline of _Atalhos"
             }
           }
         ]
@@ -128,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🏠.md",
+                "file": "Comece Aqui 🎉.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,12 +161,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.45456955811720023,
+                  "scale": 0.30304637207813345,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 🏠"
+              "title": "Graph of Comece Aqui 🎉"
             }
           },
           {
@@ -200,8 +210,8 @@
             "state": {
               "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "clock",
-              "title": "Pomodoro"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
             }
           },
           {
@@ -244,9 +254,27 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "accfe82d5f973e21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atlas/Conceitos/+ Entendendo o básico/03 Propriedades.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03 Propriedades"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "3954ea8e597c4a31",
@@ -259,12 +287,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠.md",
+                "file": "Atlas/Conceitos/Arquiteto & Jardineiro/Jardineiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🏠"
+              "title": "Outgoing links from _Atalhos"
             }
           },
           {
@@ -296,7 +324,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,7 +338,6 @@
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": true,
       "callout-manager:Insert Callout": true,
-      "periodic-notes:Open today": true,
       "templater-obsidian:Templater": true,
       "dashboard-navigator:Open dashboard navigator": false,
       "gridexplorer:Open grid view": false,
@@ -322,47 +349,53 @@
       "tasknotes:Open kanban board": true,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": true,
-      "tasknotes:Create new task": true
+      "tasknotes:Create new task": true,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e857f13f3b3f005e",
+  "active": "a90e43c5880c4a46",
   "lastOpenFiles": [
-    "System/Assets/_Atalhos.md",
-    "🏠.md",
-    "System/Templates/Snippet/& Summary.md",
-    "Calendar & Review/Daily Notes/2025-10-26.md",
-    "Calendar & Review/Weekly Notes/2025-W43.md",
-    "Calendar & Review/Monthly Notes/2025-10.md",
-    "System/Templates/Snippet/& Pomodoro Tracker.md",
-    "System/Assets/Dataview/@-templates.md",
-    "System/Templates/Snippet/& Mood tracker.md",
-    "System/Templates/Snippet/& Daily Logs.md",
-    "System/Templates/Format/Weekly Note Template.md",
-    "System/Templates/Format/Monthly-note-template.md",
-    "Calendar & Review/Daily Notes/2025-10-24.md",
-    "Calendar & Review/Daily Notes/2025-10-25.md",
-    "+/2025-10-27.md",
-    "Atlas/Conceitos/ACE & ARC Frameworks/3 headspaces ACE.md",
-    "Comece Aqui 🎉.md",
+    "starter-vault.zip",
+    "Arquivo compactado.zip",
+    "Arquivo compactado.zip.l6dphc.part",
     "README.md",
+    "🏠.md",
+    "Arquivo compactado.zip.xo05e1.part",
+    "Calendar & Review/Monthly Notes/2025-10.md",
+    "Atlas/Conceitos/+ Entendendo o básico/03 Propriedades.md",
+    "Atlas/Conceitos/+ Entendendo o básico/02 Nota.md",
     "Atlas/Conceitos/+ Entendendo o básico/01 Markdown.md",
+    "Calendar & Review/Weekly Notes/2025-W44.md",
+    "System/Templates/Snippet/&-mood tracker linechart and calendar.md",
+    "Calendar & Review/Daily Notes/2025-10-24.md",
+    "Calendar & Review/Weekly Notes",
+    "Calendar & Review/Daily Notes/2025-10-20.md",
+    "Calendar & Review/Daily Notes/2025-10-08.md",
+    "Calendar & Review/Daily Notes/2025-10-06.md",
+    "Atlas/Conceitos/Arquiteto & Jardineiro/+ Arquiteto & Jardineiro.md",
+    "System/Media/jarden-vs-archtect.png",
+    "Atlas/Conceitos/ACE & ARC Frameworks/How Atlas works.md",
+    "Atlas/Conceitos/ACE & ARC Frameworks/How + works.md",
+    "Atlas/Conceitos/ACE & ARC Frameworks/ACE honors your 3 headspaces.md",
+    "Atlas/Conceitos/ACE & ARC Frameworks/ACE helps you switch context.md",
+    "Atlas/Conceitos/ACE & ARC Frameworks/3 headspaces ACE.md",
     "Atlas/Conceitos/ACE & ARC Frameworks/+ ARC Framework.md",
     "Atlas/Conceitos/ACE & ARC Frameworks/+ ACE Pack.md",
-    "Atlas/Conceitos/+ Entendendo o básico/07 Sugestões de Classificações.md",
     "Atlas/Conceitos/+ Entendendo o básico/06 Boas Práticas de Classificação.md",
     "Atlas/Conceitos/+ Entendendo o básico/05 Entendendo Coleções.md",
-    "Atlas/Conceitos/+ Entendendo o básico/04 Entendendo Mocs.md",
-    "Atlas/Conceitos/+ Entendendo o básico/03 Propriedades.md",
+    "Atlas/Maps/+ Gestão de Conhecimento.md",
+    "Atlas/Conceitos/ACE & ARC Frameworks/How Calendar works.md",
+    "Atlas/Conceitos/ACE & ARC Frameworks/How Efforts work.md",
+    "System/Media/arc-flow-2.png",
+    "Atlas/Maps/Arquitetura e Organização de Computadores.canvas",
+    "Atlas/Maps/ACE & ARC.canvas",
+    "+/NotebookLM Mind Map.png",
+    "Calendar & Review/Monthly Notes",
     "obsidian-starter-kit.zip",
-    "Arquivo compactado.zip",
     "Arquivo compactado.zip.vfh8j2.part",
     "Arquivo compactado.zip.6xf1uh.part",
     "Atlas/Dots",
     "Calendar & Review.zip",
-    "Projects & Areas/Projects/Ongoing/Projeto modelo",
-    "Projects & Areas/Projects/Ongoing",
-    "Projects & Areas.zip",
-    "Projects & Areas/Projects/Ongoing/Projeto Modelo",
     "System/Media/Media/banners/navigation-7320887_1920.jpg",
     "System/Media/Media/banners/hands-1373363_1920.jpg",
     "System/Media/Media/banners/computer-820281.jpg",
@@ -370,9 +403,6 @@
     "System/Media/Media/banners/smile-5128742_1920.jpg",
     "System/Media/banner pos.png",
     "System/Media/bb.png",
-    "System/Media/wall2.png",
-    "System/Media/wall.png",
-    "System/Media/Pasted image 20251009183318.png",
     "Sem título.canvas",
     "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS_AOC.canvas",
     "30 Knowlegde/34 Maps &  Index/34.2 Maps/mapa-pkm.canvas",
@@ -380,8 +410,6 @@
     "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS-MENTORIA.CARLOS.canvas",
     "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS-Fluxograma-de-decisoes-de-anuncios.canvas",
     "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS-DATASCIENCE.canvas",
-    "30 Knowlegde/34.2 Maps/mapa-pkm.canvas",
-    "30 Knowlegde/34.2 Maps/+_CANVAS_AOC.canvas",
-    "30 Knowlegde/34.2 Maps/+_CANVAS_AOC 1.canvas"
+    "30 Knowlegde/34.2 Maps/mapa-pkm.canvas"
   ]
 }

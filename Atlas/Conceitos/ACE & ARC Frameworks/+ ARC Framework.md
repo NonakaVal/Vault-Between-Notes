@@ -10,9 +10,7 @@ cssclasses:
 ARC define o fluxo das suas ideias pelo tempo e espaço, muito além disso. esse é um framework que amplia seu processo criativo
 
 **Ciclo**: Novas ideias → Organização natural → Aplicação concreta = Sistema autossustentável de aprendizado.
-
-
-![[arc-flow.png]]
+![[arc-flow-2.png]]
 
 - **[[Adicionar]]**  
 	- Pasta `+` como "área de resfriamento" para ideias novas  
@@ -22,4 +20,3 @@ ARC define o fluxo das suas ideias pelo tempo e espaço, muito além disso. esse
 - **[[Comunicar]]**  
 	- Compartilhe (trabalho, redes, e-mail próprio) para dar propósito ao conhecimento  
 
-Seguir para ➡️ [[+ Gestão de Conhecimento]]

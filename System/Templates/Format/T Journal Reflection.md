@@ -1,6 +1,5 @@
 ---
-created:
-  - "{{date: DD-MM-YYYY}} {{time}}"
+created: '[[<% tp.date.now("YYYY-MM-DD") %>]]'
 tags:
   - Journal
 ---

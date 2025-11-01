@@ -2,9 +2,6 @@
 
 An integrated **knowledge management system** based on the ACE System and the ARC Framework, designed to organize **ideas, time, and actions** into a cohesive flow.  
 
----
-
-💾 [Download .zip](https://github.com/NonakaVal/obsidian-ACE-ARC/raw/refs/heads/main/obsidian-starter-kit.zip)
 
 ---
 

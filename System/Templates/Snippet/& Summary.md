@@ -1,4 +1,3 @@
-
 ```dataviewjs
 //-----------------------------------------------------
 // ⚙️ CONFIGURAÇÃO DE INTERVALO
@@ -64,7 +63,7 @@ for (const page of dv.pages("#calendar/daily")) {
 //-----------------------------------------------------
 // 🖌️ RENDERIZAÇÃO HORIZONTAL EM UMA LINHA
 //-----------------------------------------------------
-let html = `<p>📊 Logs (${startDate.format("DD/MM")} → ${endDate.format("DD/MM")})</p>
+let html = `<h5>📊 Logs (${startDate.format("DD/MM")} → ${endDate.format("DD/MM")})</h5>
 <div style="display:flex; gap:16px; align-items:center;">`;
 
 for (const cat of categories) {

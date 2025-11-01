@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar",
       "LiLayoutTemplate",
       "LiTemplaterIcon",
       "LiFolderDot",
-      "LiFolders",
-      "LiSwatchBook"
+      "LiFolders"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,7 +44,7 @@
   "Calendar & Review/Daily Notes": "LiCalendarCheck",
   "Calendar & Review/Monthly Notes": "LiCalendarFold",
   "Calendar & Review/TaskNotes": "LiCheckSquare",
-  "Calendar & Review/Weekly Notes": "LiCalendarMinus2",
+  "Calendar & Review/Weekly Notes": "LiCalendar",
   "Projects & Areas/Areas": "LiFolderSync",
   "Projects & Areas/Projects": "LiFolderCheck",
   "System": "LiSettings",

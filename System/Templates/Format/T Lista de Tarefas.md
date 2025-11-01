@@ -1,7 +1,7 @@
 ---
-created: ["{{date}} {{time}}"]
+created: '[[<% tp.date.now("YYYY-MM-DD") %>]]'
 tags:
-- Lista/
+  - Journal/list
 ---
 # 💠 Lista de Tarefas
 
