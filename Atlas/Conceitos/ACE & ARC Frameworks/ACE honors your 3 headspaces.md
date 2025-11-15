@@ -1,9 +1,6 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up:
+  - "[[+ ACE Pack]]"
 ---
 No PKM, existem três principais espaços de pensamento (ou "orientações de pensamento") entre os quais você pode transitar.
 

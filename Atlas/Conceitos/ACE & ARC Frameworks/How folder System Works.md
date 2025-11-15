@@ -1,9 +1,6 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up:
+  - "[[+ ACE Pack]]"
 ---
 Ela é uma forma simples de guardar aqueles tipos de notas de controle e outros arquivos.
 

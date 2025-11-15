@@ -1,18 +1,6 @@
 ---
-coleção:
-  - "[[Mapas]]"
-relacionado:
-  - "[[As 3 Fases dos MOCs]]"
-criado: 2023-08-19
-classificação: 4.5
-estadoDoMapa:
-  - 🟩
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+dg-publish: true
 ---
->[!banner-image] ![[sunrise-8290940_1920.jpg]]
-
  *Eu sou uma adaptação evolutiva implacável—goste você ou não!*
  
 > [!NOTA]- Navegue com seu novo Mapa de Conteúdo (MOC)

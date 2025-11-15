@@ -1,9 +1,6 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up:
+  - "[[+ ACE Pack]]"
 ---
 O **Atlas** é a pasta que reúne mapas de conteúdo (MOCs), ideias, fontes e outros fragmentos de conhecimento. Ele serve tanto para **desenvolver ideias**, com o Framework ARC.
 
@@ -18,4 +15,4 @@ O **Atlas** é a pasta que reúne mapas de conteúdo (MOCs), ideias, fontes e ou
   </ul>
 </div>
 
-> [!rainbow] ARC » [[Adicionar]] | [[Relacionar]] | [[Comunicar]]
+>  ARC » [[Adicionar]] | [[Relacionar]] | [[Comunicar]]

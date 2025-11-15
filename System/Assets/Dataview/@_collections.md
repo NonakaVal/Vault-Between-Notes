@@ -1,3 +1,6 @@
+---
+summary: 🗃️ Contagem e lista de coleções
+---
 ~~~dataviewjs
 // Obter coleções
 const colecoes = dv.pages('"System/Collections"').sort(p => p.file.ctime, 'desc').slice(0, 33);

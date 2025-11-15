@@ -1,9 +1,5 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up: "[[+ Gestão de Conhecimento]]"
 ---
 Markdown é formatação usada pelo obsidian, e obedece as seguintes regras abaixo, entretanto você também pode formatar usando a barra de opções superior no modo edição, caso esteja no modo leitura basta usar o atalho `Ctrl + E` para alternar entre os modos.
 

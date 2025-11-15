@@ -1,12 +1,6 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up: "[[+ Gestão de Conhecimento]]"
 ---
->[!banner-image] ![[Pasted image 20251009183318.png]]
-
 # Padrões e Boas Práticas para Gestão de Conhecimento Pessoal
 
 ## Introdução

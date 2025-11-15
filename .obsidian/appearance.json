@@ -2,11 +2,8 @@
   "baseFontSizeAction": true,
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "dashboarPlusPlus",
     "datacore-classes",
     "Easy multi-column notes",
-    "hidePropertiesBase",
-    "imageGallery",
     "MCL Multi Column",
     "MCL Wide Views",
     "minorAdds",
@@ -17,9 +14,11 @@
     "prismCalloutStyling",
     "banner-image",
     "Nick Milo - Custom Callouts - Pro",
-    "banner-image-big-image"
+    "banner-image-big-image",
+    "dashboarPlusPlus",
+    "hidePropertiesBase"
   ],
-  "baseFontSize": 13,
+  "baseFontSize": 14,
   "cssTheme": "Things",
   "showRibbon": true
 }

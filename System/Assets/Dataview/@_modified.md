@@ -1,5 +1,6 @@
 ---
-created: '[[2025-09-19]]'
+created: "[[2025-09-19]]"
+summary: ⏳ Últimas Notas Modificadas
 ---
 
 ```dataviewjs

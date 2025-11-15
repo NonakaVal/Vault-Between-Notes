@@ -1,72 +1,90 @@
-# 📖 Summary
+# :LiFileText: Resumo
 
-An integrated **knowledge management system** based on the ACE System and the ARC Framework, designed to organize **ideas, time, and actions** into a cohesive flow.  
+Um **sistema integrado de gestão do conhecimento** baseado no Sistema [[+ ACE Pack|ACE]] e no [[+ ARC Framework|ARC Framework]] , projetado para organizar **ideias, tempo e ações** em um fluxo coeso.
 
+## 📁 Estrutura da Vault
 
----
-
-# 🗂 ACE Organization System
-
-The **ACE** (Atlas, Calendar, Efforts) framework is a universal system for organizing **knowledge, time, and action**, complemented by:
-
-> How it works → Atlas · Calendar · Efforts  
-
-![img](https://imgur.com/I3qZKux.png)
-### Components
-- **A – Atlas** → Stores references and general knowledge. It’s the *map* of your ideas, concepts, and topics.  
-- **C – Calendar** → Holds everything linked to dates: events, deadlines, chronological records.  
-- **E – Efforts** → Contains your projects, tasks, and initiatives that require action.  
+![img|490](https://imgur.com/TTkN4ay.png)
 
 
----
+- `+/` *(Ponto de captura inicial de toda nota criada.)*
+- :LiLibraryBig: `Atlas/` *(Notas de estudos e conceitos).* 
+	- `Conceitos/` 
+	- `Mapas/` 
+- :LiCalendar: `Calendar & Review/`  *(Diário, Planejamento)*
+	- `Daily Notes/` 
+	- `Monthly Notes`
+	- `TaskNotes`
+	- `Weekly Notes`
+- :LiFolderGit2: `Projects & Areas/` *(Projetos e Áreas)* 
+	- :LiFolderSync: `Areas`
+	- :LiFolderCheck: `Projects`
+- :LiSettings: `System/` *(Notas de controle e Templates)*
 
-# 🌈 ARC Framework
+## 📕 Conteúdos e Features
 
-The **ARC Framework** defines the flow of your ideas through time and space, enhancing your creative process.  
+#### 🏡 Homepage 
 
-**Cycle:** New ideas → Natural organization → Concrete application = **Self-sustaining learning system**  
-
-> ARC = Add · Relate · Communicate  
-
-![ARC Framework](https://imgur.com/KXLDI6g.png)
-
----
-
-# 🏷 Metadata
-
-### Main Metadata Fields
-For better control, **Metadata** is used, such as:  
-
-- `created` → creation date  
-- `up` → hierarchy  
-- `collection` → belonging collection  
-- `related` → associated notes  
+<center>
+  <img src="https://imgur.com/iBUkoLF.png" width="550">
+</center>
 
 
+#### [[+ Gestão de Conhecimento| 📚 Notas sobre Gestão de conhecimento.]]
+
+<center>
+  <img src="https://imgur.com/5yGqZLP.png" width="490">
+</center>
+
+
+#### `Ctrl + N (Criação de Notas)` - [QuickAdd](https://github.com/chhoumann/quickadd) plugin 
+
+<center>
+  <img src="https://imgur.com/f6ezubJ.png.png" width="250">
+</center>
+
+
+#### Editor ✏️ [Editing Toolbar](https://github.com/cumany/obsidian-editing-toolbar)
+
+
+<center>
+  <img src="https://imgur.com/Mck7quO.png" width="500">
+</center>
+
+
+#### ✒️ [[@-templates|Templates Prontos]] 
+
+````tabs
+tab: 📜 Format
+```dataview
+TABLE without id file.link as "Template"
+FROM "System/Templates/Format"
+SORT file.name asc
+LIMIT 9
+```
+
+
+tab: & Snippets
+```dataview
+TABLE without id file.link as "Template"
+FROM "System/Templates/Snippet"
+SORT file.name asc
+LIMIT 10
+```
+````
 
 
 
+#### 🔍 Notas de buscar [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 
-# Prints ⭐
-
-![img](https://imgur.com/EGAX79f.png)
-
-![img](https://imgur.com/L7gAZr0.png)
-
-![img](https://imgur.com/D78rYpU.png)
-
+```dataview
+TABLE without id file.link as Note, summary as "Query "
+FROM "System/Assets/Dataview"
+SORT file.name desc
+```
 
 
-
-![img](https://imgur.com/lcx0E3b.png)
-
-![img](https://imgur.com/tGmxTR3.png)
-
-![img](https://imgur.com/7zcr00X.png)
-
----
-
-# 🔌 Recommended Plugins
+## 🔌  Lista completa Plugins
 
 | Plugin                                                                                         | Description                                                           |
 | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -103,14 +121,4 @@ For better control, **Metadata** is used, such as:
 
 ---
 
-# 📚 Resources & Inspirations
-
-- [Linking Your Thinking - Nick Milo](https://www.linkingyourthinking.com/)  
-- [Dusk Vault](https://github.com/DuskWasHere/dusk-obsidian-vault)  
-- [PARA - Fortelabs](https://fortelabs.com/blog/para/)  
-- [Snippets Customizados](https://github.com/NonakaVal/Obsidian-CSS-Snippets)  
-- [Dashboard ++](https://github.com/TfTHacker/DashboardPlusPlus)  
-- [Multi-Column Markdown](https://github.com/ckRobinson/multi-column-markdown)  
-- [Modular CSS Layout](https://github.com/efemkay/obsidian-modular-css-layout)  
-
-
+![[Créditos-Atribuições]]

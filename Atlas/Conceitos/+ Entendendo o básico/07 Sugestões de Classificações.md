@@ -1,9 +1,5 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up: "[[+ Gestão de Conhecimento]]"
 ---
 # Padrões Específicos para Tipos de Notas em PKM
 

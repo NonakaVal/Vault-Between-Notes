@@ -1,5 +1,5 @@
 ---
-cssclasses:
+summary: Busca centralizando todos os templates ✒️
 ---
 
 ```dataviewjs

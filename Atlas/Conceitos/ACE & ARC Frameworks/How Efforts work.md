@@ -1,9 +1,6 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up:
+  - "[[+ ACE Pack]]"
 ---
 O **Efforts** ajuda a manter suas prioridades em foco, ajustar seu ritmo conforme necessário e reunir os **trabalhos concluídos** que você compartilhou pelo caminho.
 

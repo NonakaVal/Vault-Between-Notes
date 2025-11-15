@@ -1,9 +1,6 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up:
+  - "[[+ ACE Pack]]"
 ---
 O **Calendário** organiza tudo o que é guiado pelo tempo: notas diárias, registros de momentos importantes e revisões da vida e do trabalho.
 

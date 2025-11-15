@@ -1,9 +1,5 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up: "[[+ Gestão de Conhecimento]]"
 ---
 Pelo botão :  `BUTTON[new-note]`      ou pelo atalho `ctrl + N` , Toda nota é criada inicialmente da pasta `+`. 
 

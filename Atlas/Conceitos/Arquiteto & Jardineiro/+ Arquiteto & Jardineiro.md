@@ -1,41 +1,45 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
-  - dashboard
+up:
+  - "[[+ Gestão de Conhecimento]]"
 ---
- Estilos de Manutenção que complementam o framework ARC: o **🏛️ Arquiteto** e o **🌱 Jardineiro**.
+Estilos de Manutenção Complementares [[+ ARC Framework]] .
 
+## O **🏛️ Arquiteto** e o **🌱 Jardineiro**.
+
+Usamos #tags para organizas as diferentes ações de cada abordagem. segue abaixo os objetivos e as respectivas ações de cada um.
 
 ---
 #### **🌱 [[Jardineiro]]** -> Organização, crescimento e descoberta.
+
 - Pensa em termos de ecossistemas e redes vivas.
-- info 
 	- Acredita que as conexões surgem naturalmente com o tempo.
 	- Sempre busca ver o potencial de crescimento.  
-- map **Suas ações são:**  
-	- 🌿 Plantar (Plant)  
-	- 🌾 Cultivar (Cultivate)  
-	- ❓ Questionar (Question)  
-	- 🪴 Replantar (Repot)  
-	- 🌻 Revitalizar (Revitalize)  
+
+- **Suas ações são:**  
+	- 🌱 [[Plante|Plantar]] – Ideias iniciais.  #garden/plant
+	- ☘️ [[Cultive|Cultivar]] – Desenvolver notas.  #garden/cultivate
+	- 🌾 [[Replantar|Replantar]] – Reestruturar.   #garden/repot
+	- 🍄 [[Questione|Questionar]] – Refletir.  #garden/question
+	- 🌻 [[Revisitar|Revisitar]] – Retomar.  #garden/revitalize
+	- 🌼 [[Revitalizar|Revitalizar]] – Atualizar.  #garden/revisit
+
+Em nosso template adicionamos a etapa 🫘Seed, porém como proposto no ideaverse,sempre devemos adaptar ao nosso modo de pensar .
 
 #### **🏛️ [[Arquiteto]]** -> Gosta de ordem, estrutura e planejamento.
+
 - Prefere sistemas bem definidos.
-- Pensa em termos de *blueprints* e estruturas sólidas com  categorias claras e uma hierarquia lógica.
-- map **Suas ações principais são:**
-	-  🧱 Construir (Build)
-	-  🧰 Reformar (Renovate).
-	- 🔄 Revisitar (Revisit)
+	- Pensa em termos de *blueprints* e estruturas sólidas com  categorias claras e uma hierarquia lógica.
+
+-  **Suas ações principais são:**
+	- 🧱 [[Construir|Construir]] – Estruturar.  #architect/build
+	- 🪜 [[Renovar|Renovar]] – Melhorar.  #architect/renovate
 
 
 ---
 
 #### **⚖️ Como Eles se Completam**
 
-![[jarden-vs-archtect.png|600]]
+![img](https://imgur.com/6BV9Xfc.png)
 
 Ninguém é 100% Arquiteto ou 100% Jardineiro — ambos os estilos são necessários:
 

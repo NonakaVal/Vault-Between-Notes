@@ -1,14 +1,6 @@
 ---
-up: "[[++ Gestão de Conhecimento|++ Gestão de Conhecimento]]"
-collection: "[[SISTEMA/COLEÇÕES/Gestão de Conhecimento.md|Gestão de Conhecimento]]"
-cssclasses:
-  - dashboard
-  - hide-properties_editing
-  - hide-properties_reading
-tags:
-  - architect/build
+dg-publish: true
 ---
->[!banner-image] ![[smile-5128742_1920.jpg]]
 
 
 *Este é um template exemplo*

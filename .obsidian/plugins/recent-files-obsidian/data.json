@@ -1,56 +1,144 @@
 {
   "recentFiles": [
     {
-      "basename": "Comece Aqui 🎉",
-      "path": "Comece Aqui 🎉.md"
+      "basename": "🏠",
+      "path": "🏠.md"
+    },
+    {
+      "basename": "Créditos-Atribuições",
+      "path": "Créditos-Atribuições.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "🏠",
-      "path": "🏠.md"
+      "basename": "+ Gestão de Conhecimento",
+      "path": "Atlas/Maps/+ Gestão de Conhecimento.md"
     },
     {
-      "basename": "2025-10",
-      "path": "Calendar & Review/Monthly Notes/2025-10.md"
+      "basename": "@-templates",
+      "path": "System/Assets/Dataview/@-templates.md"
+    },
+    {
+      "basename": "@_Garden",
+      "path": "System/Assets/Dataview/@_Garden.md"
+    },
+    {
+      "basename": "@_modified",
+      "path": "System/Assets/Dataview/@_modified.md"
+    },
+    {
+      "basename": "@_projects",
+      "path": "System/Assets/Dataview/@_projects.md"
+    },
+    {
+      "basename": "@_created",
+      "path": "System/Assets/Dataview/@_created.md"
+    },
+    {
+      "basename": "@_collections",
+      "path": "System/Assets/Dataview/@_collections.md"
+    },
+    {
+      "basename": "@_areas",
+      "path": "System/Assets/Dataview/@_areas.md"
+    },
+    {
+      "basename": "@_Efforts",
+      "path": "System/Assets/Dataview/@_Efforts.md"
+    },
+    {
+      "basename": "@_Architect",
+      "path": "System/Assets/Dataview/@_Architect.md"
+    },
+    {
+      "basename": "_Garden_Architect_tags",
+      "path": "System/Assets/_Garden_Architect_tags.md"
+    },
+    {
+      "basename": "_Atalhos",
+      "path": "System/Assets/_Atalhos.md"
+    },
+    {
+      "basename": "1",
+      "path": "+/1.md"
     },
     {
       "basename": "03 Propriedades",
       "path": "Atlas/Conceitos/+ Entendendo o básico/03 Propriedades.md"
     },
     {
-      "basename": "02 Nota",
-      "path": "Atlas/Conceitos/+ Entendendo o básico/02 Nota.md"
+      "basename": "Revitalizar",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Revitalizar.md"
     },
     {
-      "basename": "01 Markdown",
-      "path": "Atlas/Conceitos/+ Entendendo o básico/01 Markdown.md"
+      "basename": "Revisitar",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Revisitar.md"
     },
     {
-      "basename": "&-mood tracker linechart and calendar",
-      "path": "System/Templates/Snippet/&-mood tracker linechart and calendar.md"
+      "basename": "Replantar",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Replantar.md"
     },
     {
-      "basename": "2025-10-24",
-      "path": "Calendar & Review/Daily Notes/2025-10-24.md"
+      "basename": "Renovar",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Renovar.md"
     },
     {
-      "basename": "2025-10-20",
-      "path": "Calendar & Review/Daily Notes/2025-10-20.md"
+      "basename": "Questione",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Questione.md"
     },
     {
-      "basename": "2025-10-08",
-      "path": "Calendar & Review/Daily Notes/2025-10-08.md"
+      "basename": "Plante",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Plante.md"
     },
     {
-      "basename": "2025-10-06",
-      "path": "Calendar & Review/Daily Notes/2025-10-06.md"
+      "basename": "Jardineiro",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Jardineiro.md"
+    },
+    {
+      "basename": "Cultive",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Cultive.md"
+    },
+    {
+      "basename": "Construir",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Construir.md"
+    },
+    {
+      "basename": "Arquiteto",
+      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Arquiteto.md"
     },
     {
       "basename": "+ Arquiteto & Jardineiro",
       "path": "Atlas/Conceitos/Arquiteto & Jardineiro/+ Arquiteto & Jardineiro.md"
+    },
+    {
+      "basename": "Relacionar",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/Relacionar.md"
+    },
+    {
+      "basename": "How the Projects folder works",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/How the Projects folder works.md"
+    },
+    {
+      "basename": "How the Maps folder works",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/How the Maps folder works.md"
+    },
+    {
+      "basename": "How the Areas folder works",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/How the Areas folder works.md"
+    },
+    {
+      "basename": "How folder System Works",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/How folder System Works.md"
+    },
+    {
+      "basename": "How Efforts work",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/How Efforts work.md"
+    },
+    {
+      "basename": "How Calendar works",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/How Calendar works.md"
     },
     {
       "basename": "How Atlas works",
@@ -59,6 +147,22 @@
     {
       "basename": "How + works",
       "path": "Atlas/Conceitos/ACE & ARC Frameworks/How + works.md"
+    },
+    {
+      "basename": "Entendendo Areas & Projetos",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/Entendendo Areas & Projetos.md"
+    },
+    {
+      "basename": "Conceitos",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/Conceitos.md"
+    },
+    {
+      "basename": "Comunicar",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/Comunicar.md"
+    },
+    {
+      "basename": "Adicionar",
+      "path": "Atlas/Conceitos/ACE & ARC Frameworks/Adicionar.md"
     },
     {
       "basename": "ACE honors your 3 headspaces",
@@ -81,120 +185,16 @@
       "path": "Atlas/Conceitos/ACE & ARC Frameworks/+ ACE Pack.md"
     },
     {
+      "basename": "07 Sugestões de Classificações",
+      "path": "Atlas/Conceitos/+ Entendendo o básico/07 Sugestões de Classificações.md"
+    },
+    {
       "basename": "06 Boas Práticas de Classificação",
       "path": "Atlas/Conceitos/+ Entendendo o básico/06 Boas Práticas de Classificação.md"
     },
     {
       "basename": "05 Entendendo Coleções",
       "path": "Atlas/Conceitos/+ Entendendo o básico/05 Entendendo Coleções.md"
-    },
-    {
-      "basename": "+ Gestão de Conhecimento",
-      "path": "Atlas/Maps/+ Gestão de Conhecimento.md"
-    },
-    {
-      "basename": "How Calendar works",
-      "path": "Atlas/Conceitos/ACE & ARC Frameworks/How Calendar works.md"
-    },
-    {
-      "basename": "How Efforts work",
-      "path": "Atlas/Conceitos/ACE & ARC Frameworks/How Efforts work.md"
-    },
-    {
-      "basename": "Adicionar",
-      "path": "Atlas/Conceitos/ACE & ARC Frameworks/Adicionar.md"
-    },
-    {
-      "basename": "Comunicar",
-      "path": "Atlas/Conceitos/ACE & ARC Frameworks/Comunicar.md"
-    },
-    {
-      "basename": "07 Sugestões de Classificações",
-      "path": "Atlas/Conceitos/+ Entendendo o básico/07 Sugestões de Classificações.md"
-    },
-    {
-      "basename": "new note ",
-      "path": "+/new note .md"
-    },
-    {
-      "basename": "nova nota 2",
-      "path": "+/nova nota 2.md"
-    },
-    {
-      "basename": "2025-10-15-new note",
-      "path": "+/2025-10-15-new note.md"
-    },
-    {
-      "basename": "Dashboard++ (Modelo)",
-      "path": "Atlas/Maps/Dashboard++ (Modelo).md"
-    },
-    {
-      "basename": "How folder System Works",
-      "path": "Atlas/Conceitos/ACE & ARC Frameworks/How folder System Works.md"
-    },
-    {
-      "basename": "& Pomodoro Tracker",
-      "path": "System/Templates/Snippet/& Pomodoro Tracker.md"
-    },
-    {
-      "basename": "Arquitetura e Organização de Computadores",
-      "path": "Atlas/Maps/Arquitetura e Organização de Computadores.canvas"
-    },
-    {
-      "basename": "new note",
-      "path": "System/Templates/Format/new note.md"
-    },
-    {
-      "basename": "04 Entendendo Mocs",
-      "path": "Atlas/Conceitos/+ Entendendo o básico/04 Entendendo Mocs.md"
-    },
-    {
-      "basename": "2025-10-28",
-      "path": "Calendar & Review/Daily Notes/2025-10-28.md"
-    },
-    {
-      "basename": "Habits Map (Modelo)",
-      "path": "Atlas/Maps/Habits Map (Modelo).md"
-    },
-    {
-      "basename": "_Atalhos",
-      "path": "System/Assets/_Atalhos.md"
-    },
-    {
-      "basename": "Data Science (Modelo)",
-      "path": "Atlas/Maps/Data Science (Modelo).md"
-    },
-    {
-      "basename": "++ Gestão de Conhecimento",
-      "path": "Atlas/Maps/++ Gestão de Conhecimento.md"
-    },
-    {
-      "basename": "Jardineiro",
-      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Jardineiro.md"
-    },
-    {
-      "basename": "Arquiteto",
-      "path": "Atlas/Conceitos/Arquiteto & Jardineiro/Arquiteto.md"
-    },
-    {
-      "basename": "@_collections",
-      "path": "System/Assets/Dataview/@_collections.md"
-    },
-    {
-      "basename": "& Summary",
-      "path": "System/Templates/Snippet/& Summary.md"
-    },
-    {
-      "basename": "2025-10-26",
-      "path": "Calendar & Review/Daily Notes/2025-10-26.md"
-    },
-    {
-      "basename": "@-templates",
-      "path": "System/Assets/Dataview/@-templates.md"
-    },
-    {
-      "basename": "& Daily Logs",
-      "path": "System/Templates/Snippet/& Daily Logs.md"
     }
   ],
   "omittedPaths": [],

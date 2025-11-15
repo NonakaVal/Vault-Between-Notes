@@ -1,11 +1,8 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up:
+  - "[[+ Arquiteto & Jardineiro]]"
 ---
-> [!trees] [[Plante]] | **[[Cultive]]** | [[Questione]] | [[Replantar]] | [[Revitalizar]] | [[Revisitar]] — [[Arquiteto]] ⤴️  
+>  [[Plante]] | **[[Cultive]]** | [[Questione]] | [[Replantar]] | [[Revitalizar]] | [[Revisitar]] — [[Arquiteto]] ⤴️  
 
 Quando você estiver em uma nota e sentir que quer voltar a ela, basta adicionar a tag `garden` nessa nota.  
 Não importa se você tem um motivo claro ou apenas uma sensação vaga.  

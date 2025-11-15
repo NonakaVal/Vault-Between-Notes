@@ -1,9 +1,6 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up:
+  - "[[+ Gestão de Conhecimento]]"
 ---
 A pasta **Conceitos** é reservada para **ideias fundamentais** e **definições** que estruturam seu sistema de conhecimento.
 

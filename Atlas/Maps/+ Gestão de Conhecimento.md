@@ -1,58 +1,88 @@
->[!banner-image] ![[hands-1373363_1920.jpg]]
-### 📘 Gestão de Conhecimento
+A **Gestão do Conhecimento** busca coletar, organizar, conectar e aplicar informações para transformá-las em conhecimento útil. O **[Obsidian](https://obsidian.md/)** é uma ferramenta ideal para isso, pois funciona como um **segundo cérebro digital**: permite criar notas interligadas, usar metadados e tags, visualizar conexões em gráficos e integrar métodos como [Zettelkasten](https://zettelkasten.de/overview/), LYT ou Frameworks próprios
 
-#### I. Fundamentos do PKM e LYT
-- 📄 [[01 Markdown]]
-- 📄 [[02 Nota]] (Recipiente de pensamento significativo para quem cria)
-- 📄 [[04 Entendendo Mocs]] (Mapas de Conteúdo para agrupar e navegar ideias)
-- 📄 [[03 Propriedades]] (Metadados usados para classificação)
-- 📄 [[07 Sugestões de Classificações]] (Base em sistemas como Dewey)
-- 📄 [[06 Boas Práticas de Classificação]] (Sugestões de padrões e boas práticas)
-- 📄 [[05 Entendendo Coleções]]
-- 📄 [[++ Gestão de Conhecimento]]
+## — Fundamentos  
 
-#### II. O Sistema ACE (Atlas, Calendar, Efforts)
-
-- 📄 [[How + works|Como + funciona]] (Captura imediata de notas)
-- 📄 [[How folder System Works|Como a pasta Sistema funciona]]
-
-**1. Atlas (Conhecimento / Espaço)**
-- 📄 [[How Atlas works|Como Atlas funciona]]
-	- 📄 [[Conceitos]] (Fragmentos de conhecimento)
-	- 📄 [[05 Entendendo Coleções|Coleções]] (Notas de visualização dinâmica)
-
-**2. Calendar (Tempo)**
-- 📄 [[How Calendar works|Como Calendário funciona]]
-
-**3. Efforts (Ação / Importância)**
-- 📄 [[How Efforts work|Como Esforços funciona]]
-	- 📄 [[Entendendo Areas & Projetos]]
-	- 📄 [[How the Areas folder works|Entendendo Areas]]
+1. ✍️ [[01 Markdown|Sintaxe Markdown]] – Escrita e formatação.  
+2. 🗒️ [O que é uma nota ?](https://www.youtube.com/watch?v=ehkbLyeKuII) – By Nick MIlo
+3. 🏷️ [[03 Propriedades|Propriedades]] – Metadados e tags.  
+4. 🗃️ [[05 Entendendo Coleções|Coleções]] – Agrupamento lógico.  
 
 
-#### III. O Ciclo de Ideação ARC
-- 📄 [[+ ARC Framework|ARC Framework]] (Fluxo de ideias: Add, Relate, Communicate)
-	- 📄 [[Adicionar]] (Captura e priorização de notas)
-	- 📄 [[Relacionar]] (Conectar e desenvolver ideias)
-	- 📄 [[Comunicar]] (Compartilhar e transformar em _Works_)
+## 🗃️ **Boas Práticas de Classificação**
+- ℹ️ [[06 Boas Práticas de Classificação|Princípios de Classificação]] – Ordem e consistência.  
+- 🧭 [[07 Sugestões de Classificações|Algumas Sugestões]] – Padrões úteis.  
 
+---
 
-#### IV. Estilos de Manutenção (Arquiteto e Jardineiro)
-- 📄 [[Arquiteto]] (Ordem e estruturação de MOCs)
-- 📄 [[Jardineiro]] (Crescimento orgânico com tags `garden`)
+## —  [[+ ACE Pack|Introdução ao ACE]] 
 
-**Ações do Arquiteto**
-- 📄 [[Construir]] (Criar ou estruturar MOCs novos)
-- 📄 [[Renovar]] (Atualizar MOCs antigos)
+O framework **ACE** (Atlas, Calendar, Efforts) é um Sistema universal para organizar conhecimento, tempo e ação, complementado por:
 
-**Ações do Jardineiro**
-- 📄 [[Plante]] (Conectar notas rápidas ao ideaverse)
-- 📄 [[Cultive]] (Adicionar contexto e links)
-- 📄 [[Replantar]] (Reposicionar ideias em novos contextos)
-- 📄 [[Questione]] (Refinar e testar ideias)
-- 📄 [[Revisitar]] (Voltar a notas esquecidas)
-- 📄 [[Revitalizar]] (Dar nova vida a ideias estagnadas)
+![[3 headspaces ACE]]
+
+### 
+
+- 📁 [[How Atlas works|Como Atlas Funciona]]
+	- 🧠 [[Conceitos|Conceitos]] – Ideias-base.  
+	- 🧩 [[04 Entendendo MOCs|Mapas de conteúdo.  ]]
+- 📁 [[How Calendar works|Como Calendário Funciona]] – Tempo e rotinas.  
+- 📁 [[How Efforts work|Como Esforço Funciona]] – Metas e progresso.  
+<br>
+#### 🌱 Áreas e Projetos
+
+- 🧭 [[Entendendo Areas & Projetos]]
+	- 🏗️ [[Entendendo Areas & Projetos|Áreas]] –  
+	- 🚀 [[How the Projects folder works|Projetos]] – 
 
 
 
+- ⚙️ [[How folder System Works|Pasta Sistema]] 
 
+---
+
+## — [[+ ARC Framework]]  🔄
+
+ARC define o fluxo das suas ideias pelo tempo e espaço, muito além disso. esse é um framework que amplia seu processo criativo.
+
+**Ciclo**: Novas ideias → Organização natural → Aplicação concreta = Sistema autossustentável de aprendizado.
+
+### 💭 [[+ ARC Framework|Ideação]] – .  
+
+
+<center>
+  <img src="arc-flow.png" width="450">
+</center>
+
+
+
+- ➕ [[Adicionar|Adicionar]] – Capturar ideias.  
+- 🔗 [[Relacionar|Relacionar]] – Conectar conceitos.  
+- 📣 [[Comunicar|Comunicar]] – Compartilhar e publicar.  
+
+---
+
+## — Arquiteto & Jardineiro  
+
+Estilos de Manutenção Complementares [[+ ARC Framework]] .
+
+
+
+#### 🧩 [[+ Arquiteto & Jardineiro|Duas mentalidades.  ]] – 
+
+![img](https://imgur.com/oQKospw.png)
+
+- 🌱 **Jardineiro** – Cultiva e revisa.  
+	- 🫘 [[Plante|Plantar]] – Ideias iniciais.  
+	- ☘️ [[Cultive|Cultivar]] – Desenvolver notas.  
+	- 🌾 [[Replantar|Replantar]] – Reestruturar.  
+	- 🍄 [[Questione|Questionar]] – Refletir.  
+	- 🌻 [[Revisitar|Revisitar]] – Retomar.  
+	- 🌼 [[Revitalizar|Revitalizar]] – Atualizar.  
+- 🏛️ **Arquiteto** – Planeja e constrói.  
+	- 🧱 [[Construir|Construir]] – Estruturar.  
+	- 🪜 [[Renovar|Renovar]] – Melhorar.  
+
+
+---
+
+[[Créditos-Atribuições]]

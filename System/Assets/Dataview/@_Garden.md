@@ -1,3 +1,6 @@
+---
+summary: Notas marcadas com as Tags de Garden 🫘 🌱  ☘️  🪴  🍄 💦  🍁
+---
 🫘Seed | 🌱 Plant | ☘️ Cultivate 
 🪴 Repot | 🍄 Question 💦 Revitalize | 🍁 Revisit
 

@@ -1,84 +1,13 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up:
+  - "[[+ ACE Pack]]"
 ---
 Tanto **Areas** quanto **Projetos** fazem parte do **E (Efforts)** do sistema ACE - a dimensão da **ação** e **importância**.
 
 ---
+![[How the Areas folder works]]
 
-## 📂 **AREAS (Áreas)**
-
-### O que são?
-
-**Areas** são **responsabilidades contínuas** que você mantém ao longo do tempo - não têm data de conclusão definida.
-
-### Características:
-
-- **Sem prazo final** - são compromissos permanentes
-- **Manutenção contínua** - exigem atenção regular
-- **Amplas e abrangentes** - cobrem aspectos gerais da vida
-
-### Exemplos:
-
-- `Desenvolvimento Pessoal`
-- `Family (Família)`
-- `Saúde e Fitness`
-- `Carreira`
-- `Finanças`
-
-### Estrutura de uma Area:
-
-```yaml
----
-area: "[[Nome da Área]]"
-tags: area/nome_da_area
-type: area_family
-created: "[[2025-10-15]]"
----
-```
-
-### Onde ficam:
-
-`Projects & Areas/Areas/`
-
----
-
-## 🚀 **PROJECTS (Projetos)**
-
-### O que são?
-
-**Projetos** são **iniciativas com prazo definido** - têm início, meio e fim claros.
-
-### Características:
-
-- **Prazo definido** - data de início e entrega
-- **Objetivo específico** - resultado concreto a alcançar
-- **Status rastreável** - podem estar "In Progress", "Finished", "waiting", "to start"
-- **Vinculados a Areas** - geralmente fazem parte de uma área maior
-
-### Exemplos:
-
-- `Daily Journal Vault Kit`
-- `Flight School Obsidian Vault`
-- `PKM pro system`
-
-### Estrutura de um Projeto:
-
-```yaml
----
-project: "[[Nome do Projeto]]"
-tags: project/nome_do_projeto
-type: project
-created: "[[2025-10-15]]"
-inicio: 2025-10-15
-entrega: 2025-10-20
-status: to start
----
-```
-
+![[How the Projects folder works]]
 ### Campos importantes:
 
 - **inicio** - data de início

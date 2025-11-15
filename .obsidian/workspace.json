@@ -1,16 +1,41 @@
 {
   "main": {
-    "id": "2178b4b13ad8d220",
+    "id": "9aca47e296c972a4",
     "type": "split",
     "children": [
       {
-        "id": "480113ca8d9c7463",
+        "id": "8df9ed94d06cb3b9",
         "type": "tabs",
         "children": [
           {
-            "id": "e857f13f3b3f005e",
+            "id": "b92a2def29513378",
             "type": "leaf",
             "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "bd0a6a4cc13c6442",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -28,33 +53,8 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "🏠"
-            }
-          },
-          {
-            "id": "a90e43c5880c4a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comece Aqui 🎉.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comece Aqui 🎉"
             }
           }
         ],
@@ -64,15 +64,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "da223467db4c9158",
+    "id": "b234fa83c9797d2e",
     "type": "split",
     "children": [
       {
-        "id": "3ba83bbb7904c6a3",
+        "id": "94e8c6580e22f495",
         "type": "tabs",
         "children": [
           {
-            "id": "b34c0f902b1265c0",
+            "id": "c6c60a68a78ecfcb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "c3dcb494a0674c29",
+            "id": "63b72361a4aa6beb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -98,79 +98,21 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
-            "id": "e0f7509dece0369f",
+            "id": "3f93804b98987ca6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "f7119f2528338e15",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "System/Assets/_Atalhos.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of _Atalhos"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5bf066390432bfba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f8e7e9bde23996cf",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Comece Aqui 🎉.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.30304637207813345,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Comece Aqui 🎉"
-            }
-          },
-          {
-            "id": "23fbdee040da4c31",
+            "id": "728380131b2031b3",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -183,65 +125,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 300
   },
   "right": {
-    "id": "3703f7d8eaeb01fd",
+    "id": "5b7ec59c4f8f6a1f",
     "type": "split",
     "children": [
       {
-        "id": "c4e9b6b7a7b97459",
+        "id": "5ccccd7fdb5cf9bb",
         "type": "tabs",
-        "dimension": 53.153153153153156,
         "children": [
           {
-            "id": "72f1b9cde49a80fb",
+            "id": "72c23808abfbbab3",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "d559413d9238a91f",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-pomodoro-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tasknotes-pomodoro-view"
-            }
-          },
-          {
-            "id": "1ebc49deb54dd0f7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency",
+                "file": "Atlas/Maps/Gestão de Conhecimento.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gestão de Conhecimento"
             }
           },
           {
-            "id": "40be355d2ebab86f",
+            "id": "57dce59d5a22a201",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outgoing-link",
               "state": {
-                "file": "🏠.md"
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-info",
-              "title": "File properties for 🏠"
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "2386ef8588c3dc8e",
+            "id": "3480a921c102b3bf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -256,160 +183,121 @@
             }
           },
           {
-            "id": "accfe82d5f973e21",
+            "id": "98430b1cf4690c05",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "all-properties",
               "state": {
-                "file": "Atlas/Conceitos/+ Entendendo o básico/03 Propriedades.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 03 Propriedades"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3954ea8e597c4a31",
-        "type": "tabs",
-        "dimension": 46.846846846846844,
-        "children": [
-          {
-            "id": "7a2141420f060740",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Atlas/Conceitos/Arquiteto & Jardineiro/Jardineiro.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from _Atalhos"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "143b5daa1b1727ea",
+            "id": "1cfe2a0da3bd25cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "System/Assets/_Atalhos.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-file",
-              "title": "_Atalhos"
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dfdf23ad0e2d6e1d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "33445fe1a07b38ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "🏠.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 🏠"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": true,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": true,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": true,
+      "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": true,
-      "callout-manager:Insert Callout": true,
-      "templater-obsidian:Templater": true,
-      "dashboard-navigator:Open dashboard navigator": false,
+      "bases:Create new base": false,
+      "callout-manager:Insert Callout": false,
+      "templater-obsidian:Templater": false,
       "gridexplorer:Open grid view": false,
-      "tasknotes:Open mini calendar": true,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
       "tasknotes:Open task list": false,
-      "tasknotes:Open notes": true,
-      "tasknotes:Open agenda": true,
-      "tasknotes:Open kanban board": true,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
-      "tasknotes:Open pomodoro stats": true,
-      "tasknotes:Create new task": true,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "a90e43c5880c4a46",
+  "active": "bd0a6a4cc13c6442",
   "lastOpenFiles": [
-    "starter-vault.zip",
-    "Arquivo compactado.zip",
-    "Arquivo compactado.zip.l6dphc.part",
+    "Créditos-Atribuições.md",
     "README.md",
-    "🏠.md",
-    "Arquivo compactado.zip.xo05e1.part",
-    "Calendar & Review/Monthly Notes/2025-10.md",
-    "Atlas/Conceitos/+ Entendendo o básico/03 Propriedades.md",
-    "Atlas/Conceitos/+ Entendendo o básico/02 Nota.md",
-    "Atlas/Conceitos/+ Entendendo o básico/01 Markdown.md",
-    "Calendar & Review/Weekly Notes/2025-W44.md",
-    "System/Templates/Snippet/&-mood tracker linechart and calendar.md",
-    "Calendar & Review/Daily Notes/2025-10-24.md",
-    "Calendar & Review/Weekly Notes",
-    "Calendar & Review/Daily Notes/2025-10-20.md",
-    "Calendar & Review/Daily Notes/2025-10-08.md",
-    "Calendar & Review/Daily Notes/2025-10-06.md",
-    "Atlas/Conceitos/Arquiteto & Jardineiro/+ Arquiteto & Jardineiro.md",
-    "System/Media/jarden-vs-archtect.png",
-    "Atlas/Conceitos/ACE & ARC Frameworks/How Atlas works.md",
-    "Atlas/Conceitos/ACE & ARC Frameworks/How + works.md",
-    "Atlas/Conceitos/ACE & ARC Frameworks/ACE honors your 3 headspaces.md",
-    "Atlas/Conceitos/ACE & ARC Frameworks/ACE helps you switch context.md",
-    "Atlas/Conceitos/ACE & ARC Frameworks/3 headspaces ACE.md",
-    "Atlas/Conceitos/ACE & ARC Frameworks/+ ARC Framework.md",
-    "Atlas/Conceitos/ACE & ARC Frameworks/+ ACE Pack.md",
-    "Atlas/Conceitos/+ Entendendo o básico/06 Boas Práticas de Classificação.md",
-    "Atlas/Conceitos/+ Entendendo o básico/05 Entendendo Coleções.md",
     "Atlas/Maps/+ Gestão de Conhecimento.md",
-    "Atlas/Conceitos/ACE & ARC Frameworks/How Calendar works.md",
-    "Atlas/Conceitos/ACE & ARC Frameworks/How Efforts work.md",
-    "System/Media/arc-flow-2.png",
-    "Atlas/Maps/Arquitetura e Organização de Computadores.canvas",
-    "Atlas/Maps/ACE & ARC.canvas",
-    "+/NotebookLM Mind Map.png",
-    "Calendar & Review/Monthly Notes",
-    "obsidian-starter-kit.zip",
-    "Arquivo compactado.zip.vfh8j2.part",
-    "Arquivo compactado.zip.6xf1uh.part",
-    "Atlas/Dots",
-    "Calendar & Review.zip",
-    "System/Media/Media/banners/navigation-7320887_1920.jpg",
-    "System/Media/Media/banners/hands-1373363_1920.jpg",
-    "System/Media/Media/banners/computer-820281.jpg",
-    "System/Media/Media/banners/sunrise-8290940_1920.jpg",
-    "System/Media/Media/banners/smile-5128742_1920.jpg",
-    "System/Media/banner pos.png",
-    "System/Media/bb.png",
-    "Sem título.canvas",
-    "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS_AOC.canvas",
-    "30 Knowlegde/34 Maps &  Index/34.2 Maps/mapa-pkm.canvas",
-    "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS_AOC 1.canvas",
-    "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS-MENTORIA.CARLOS.canvas",
-    "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS-Fluxograma-de-decisoes-de-anuncios.canvas",
-    "30 Knowlegde/34 Maps &  Index/34.2 Maps/+_CANVAS-DATASCIENCE.canvas",
-    "30 Knowlegde/34.2 Maps/mapa-pkm.canvas"
+    "gestão do conhecimento 2.md",
+    "🏠.md",
+    "System/Assets/Dataview/@-templates.md",
+    "System/Assets/Dataview/@_Garden.md",
+    "System/Assets/Dataview/@_modified.md",
+    "System/Assets/Dataview/@_projects.md",
+    "System/Assets/Dataview/@_recent-created.md",
+    "System/Assets/Dataview/@_created.md",
+    "System/Assets/Dataview/@_dataview-all-tasks.md",
+    "System/Assets/Dataview/@_collections.md",
+    "System/Assets/Dataview/@_areas.md",
+    "System/Assets/Dataview/@_Efforts.md",
+    "System/Assets/Dataview/@_Architect.md",
+    "System/Assets/Dataview/Untitled.md",
+    "System/Assets/_Garden_Architect_tags.md",
+    "System/Assets/_Atalhos.md",
+    "+/1.md",
+    "Atlas/Conceitos/+ Entendendo o básico/03 Propriedades.md",
+    "Atlas/Conceitos/Arquiteto & Jardineiro/Revitalizar.md",
+    "Atlas/Conceitos/Arquiteto & Jardineiro/Revisitar.md",
+    "Atlas/Conceitos/Arquiteto & Jardineiro/Replantar.md",
+    "Atlas/Conceitos/Arquiteto & Jardineiro/Renovar.md",
+    "Atlas/Conceitos/Arquiteto & Jardineiro/Questione.md",
+    "Atlas/Maps/Exemplos",
+    "Atlas/Maps/Untitled.canvas",
+    "System/Media/arc-flow.png",
+    "System/Media/arc-maid.png",
+    "System/Media/atlas-f.png"
   ]
 }

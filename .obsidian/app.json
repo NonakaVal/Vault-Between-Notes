@@ -3,5 +3,6 @@
   "showInlineTitle": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "+",
-  "attachmentFolderPath": "System/Media"
+  "attachmentFolderPath": "System/Media",
+  "promptDelete": false
 }

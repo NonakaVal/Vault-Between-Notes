@@ -1,21 +1,5 @@
 ---
-tags:
-  - index
-  - dashboard
-  - architect/build
-subject:
-  - "[[hub-python]]"
-  - "[[hub-visualization-data]]"
-  - "[[hub-descriptive-analysis]]"
-  - "[[hub-hypothesis-testing]]"
-  - "[[hub-data-wrangling]]"
-  - "[[hub-ml-models]]"
-  - "[[hub-tec]]"
-  - "[[hub-growth]]"
-cssclasses:
-  - dashboard
-  - hide-properties_editing
-  - hide-properties_reading
+dg-publish: true
 ---
 # 📚 Data Science Knowledge Base
 

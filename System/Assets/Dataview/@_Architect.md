@@ -1,3 +1,6 @@
+---
+summary: Notas marcadas com as tags 🧱 Build ou 🪜 Renovate
+---
 🧱 Build | 🪜 Renovate
 
 ```dataview

@@ -1,5 +1,6 @@
 ---
-created: '[[2025-09-19]]'
+created: "[[2025-09-19]]"
+summary: Busca em 🌿 Áreas e 💻 Projetos
 ---
 
 > [!multi-column]

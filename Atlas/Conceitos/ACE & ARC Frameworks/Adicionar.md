@@ -1,11 +1,8 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up:
+  - "[[+ ARC Framework]]"
 ---
-> [!tldr] [[+ ARC Framework]] » **[[Adicionar]]** | [[Relacionar]] | [[Comunicar]] 
+>  [[+ ARC Framework]] » **[[Adicionar]]** | [[Relacionar]] | [[Comunicar]] 
 
 Esta nota não é apenas uma caixa de entrada. É uma base de resfriamento 🧊. Os pensamentos chegam quentes. Mas depois de alguns dias, eles esfriam. Quando pensamentos mais frios prevalecem, você pode priorizar melhor. Legal? 
 

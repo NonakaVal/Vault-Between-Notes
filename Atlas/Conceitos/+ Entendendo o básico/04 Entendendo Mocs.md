@@ -1,12 +1,7 @@
 ---
-up: "[[++ Gestão de Conhecimento]]"
-collection: "[[Gestão de Conhecimento]]"
-cssclasses:
-  - hide-properties_editing
-  - hide-properties_reading
+up: "[[+ Gestão de Conhecimento]]"
 ---
->[!banner-image] ![[office-820390_1920.jpg]]
-## O Que é um MOC?
+# O Que é um MOC?
 
 **M—O—C** (Map of Content) é um **agrupamento intencional de informações** que mapeia "coisas" em contexto com outras "coisas".
 
@@ -415,18 +410,5 @@ Servem como ponto central de navegação diária.
     - MOCs contextualizam intencionalmente
 
 ---
-
-### Recursos Relacionados
-
-- [[+ Gestão de Conhecimento]]
-- [[++ Gestão de Conhecimento]]
-- [[Dashboard++ (Modelo)]]
-
-
----
-
-**Última atualização:** Outubro 2025  
-
-<br>
 
 Seguir para ➡️ [[05 Entendendo Coleções]]
